@@ -1,12 +1,19 @@
-## Hi there 👋
+# Hi there 👋
+
+Things I usually code with : PHP, MYSQL, Javascript, Java, Ocaml, C, Python, CSS, Shell, HTML</br>
+Things I know code with : Haskell, Prolog</br>
+- 🔭 I’m currently working on a personnal website project on a raspberry pi 4</br>
+- 🌱 I’m currently learning : Haskell, AI reinforcement learning
+
+#### GitHub stats 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sifflet-Blanc&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="My github stats" />
+
 
 <!--
 **Sifflet-Blanc/Sifflet-Blanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
