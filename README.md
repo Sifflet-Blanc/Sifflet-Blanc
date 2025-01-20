@@ -1,7 +1,5 @@
 # Hi there 👋
 
-- 😄 Pronouns: He/Him
-
 - 💻 Things I usually code with : PHP, MYSQL, Javascript, Java, Ocaml, C, Python, CSS, Shell, HTML</br>
   Things I know code with : Haskell, Prolog</br>
 - ✨ Hobies : Reading fantasy, Video games 
