@@ -1,9 +1,12 @@
 # Hi there 👋
 
-Things I usually code with : PHP, MYSQL, Javascript, Java, Ocaml, C, Python, CSS, Shell, HTML</br>
-Things I know code with : Haskell, Prolog</br>
-- 🔭 I’m currently working on a personnal website project on a raspberry pi 4</br>
-- 🌱 I’m currently learning : Haskell, AI reinforcement learning
+- 😄 Pronouns: He/Him
+
+- 💻 Things I usually code with : PHP, MYSQL, Javascript, Java, Ocaml, C, Python, CSS, Shell, HTML</br>
+  Things I know code with : Haskell, Prolog</br>
+- ✨ Hobies : Reading fantasy, Video games 
+- 🔭 Working on : a personnal website project on a raspberry pi 4 and Project Euler problems
+- 🌱 Learning : Haskell, AI reinforcement learning
 
 #### GitHub stats 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sifflet-Blanc&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="My github stats" />
@@ -18,6 +21,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
