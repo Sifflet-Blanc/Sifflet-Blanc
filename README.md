@@ -9,15 +9,7 @@
 #### GitHub stats 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sifflet-Blanc&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="My github stats" />
 
-
-<!--
-**Sifflet-Blanc/Sifflet-Blanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+## Project on witch I actively work witch are not on my github : 
+- [Site de rencontre](https://github.com/Erra570/SiteDeRencontre)
+- [Data Battle 2025](https://github.com/HappyGood0/DataBatlle2025)
+- [Projet de graphe en Haskell](https://github.com/jjotogo/Haskell_Proj)
