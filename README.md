@@ -4,7 +4,7 @@
   Things I know code with : Haskell, Prolog</br>
 - ✨ Hobies : Reading fantasy, Video games 
 - 🔭 Working on : a personnal website project on a raspberry pi 4 and Project Euler problems
-- 🌱 Learning : Haskell, AI reinforcement learning
+- 🌱 Learning : empty for now :)
 
 #### GitHub stats 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sifflet-Blanc&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="My github stats" />
