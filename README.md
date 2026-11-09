@@ -1,13 +1,11 @@
 # Hi there 👋
-
-- 💻 Things I usually code with : PHP, MYSQL, Javascript, Java, Ocaml, C, Python, CSS, Shell, HTML</br>
+I switched to [GitLab](https://gitlab.com/Sifflet-Blanc) so the news is fresher over there.
+- 💻 Things I usually code with : Java, TypeScript, Ocaml, PHP, MYSQL, Javascript, C, Python, CSS, Shell, HTML</br>
   Things I know code with : C++, Haskell, Prolog</br>
-- ✨ Hobies : Reading fantasy, Video games 
-- 🔭 Working on : a personnal website project on a raspberry pi 4
-- 🌱 Learning : empty for now :)
-
-#### GitHub stats 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sifflet-Blanc&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="My github stats" />
+- Framework : Spring, React and Angular
+- ✨ Hobies : Reading fantasy, Video games and obviously coding
+- 🔭 Working on : a personnal website project on a kubernetes cluster with 2 node selfhosted and some completion of project euler problems.
+- 🌱 Learning : Strengthen my angular and kube knowledge with my own project.
 
 ## Project on witch I actively work witch are not on my github : 
 - [Site de rencontre](https://github.com/Erra570/SiteDeRencontre)
